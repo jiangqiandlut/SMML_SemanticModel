@@ -1,0 +1,581 @@
+{
+  "physicalTable" : {
+    "name" : "H4125",
+    "sourceType" : "TABLE",
+    "physicalColumns" : [ {
+      "name" : "EIG",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "JIG",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "UKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "GKU",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "HIN",
+      "dataType" : "CHAR",
+      "length" : 15,
+      "nullable" : true
+    }, {
+      "name" : "TOK",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "SKAIN",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "SKA",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "SSAL",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "URDENPDY",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "URDENSDY",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "URDENO",
+      "dataType" : "CHAR",
+      "length" : 6,
+      "nullable" : true
+    }, {
+      "name" : "URISUU",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "URURIATN",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "URIKIN",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "SONEK",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "JEIG",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "SEIG",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "URDSKU",
+      "dataType" : "CHAR",
+      "length" : 4,
+      "nullable" : true
+    }, {
+      "name" : "URTSKU",
+      "dataType" : "CHAR",
+      "length" : 4,
+      "nullable" : true
+    }, {
+      "name" : "URJTANT",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "URUKD",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "URBKNO",
+      "dataType" : "CHAR",
+      "length" : 5,
+      "nullable" : true
+    }, {
+      "name" : "URJYU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URCHOK",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URCHOH",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URISAN",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URNEBI",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URHENP",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URSHUR",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URSOKO",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URLAMP",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URLKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URUSER",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "NOTANKKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URREB",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URSIRETN",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "UROTAN",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "URBIKO",
+      "dataType" : "VARCHAR",
+      "length" : 20,
+      "nullable" : true
+    }, {
+      "name" : "URBIKO2",
+      "dataType" : "VARCHAR",
+      "length" : 25,
+      "nullable" : true
+    }, {
+      "name" : "URHINBNA",
+      "dataType" : "VARCHAR",
+      "length" : 20,
+      "nullable" : true
+    }, {
+      "name" : "URLPBHON",
+      "dataType" : "CHAR",
+      "length" : 15,
+      "nullable" : true
+    }, {
+      "name" : "URCCOD",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "GENNO",
+      "dataType" : "CHAR",
+      "length" : 4,
+      "nullable" : true
+    }, {
+      "name" : "URKENS",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "URKKRNO",
+      "dataType" : "CHAR",
+      "length" : 6,
+      "nullable" : true
+    }, {
+      "name" : "URCHNO",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "URSISID",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "URSESY",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "URSEGY",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "URKEGY",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "URDEGY",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "URCONT",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "URBUSK",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URSYRK",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URLOTS",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "JTCD",
+      "dataType" : "CHAR",
+      "length" : 6,
+      "nullable" : true
+    }, {
+      "name" : "KEITKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "TANKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URZAIKTN",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "KNO",
+      "dataType" : "CHAR",
+      "length" : 6,
+      "nullable" : true
+    }, {
+      "name" : "URJNET",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "KITKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URMITEI",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "LOTNO",
+      "dataType" : "CHAR",
+      "length" : 6,
+      "nullable" : true
+    }, {
+      "name" : "MEINO",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "URCCODNK",
+      "dataType" : "VARCHAR",
+      "length" : 10,
+      "nullable" : true
+    }, {
+      "name" : "URSAIS",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "URSJYUR",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "URUNEI",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URSTKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URZKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URHSRT",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "URTSNBKN",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "URSEIDKN",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "URMHSYKN",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "URARARI",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "URHIKKIN",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "URJHNKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "SYUSINO",
+      "dataType" : "CHAR",
+      "length" : 5,
+      "nullable" : true
+    }, {
+      "name" : "TOUZEN",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "ZUBAB",
+      "dataType" : "CHAR",
+      "length" : 17,
+      "nullable" : true
+    }, {
+      "name" : "RSWSNO",
+      "dataType" : "CHAR",
+      "length" : 6,
+      "nullable" : true
+    }, {
+      "name" : "CHNTEN",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "MEIDATAKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "SKMKHB",
+      "dataType" : "CHAR",
+      "length" : 4,
+      "nullable" : true
+    }, {
+      "name" : "CATGRKU",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "MKKGLG",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "ZUBAB10",
+      "dataType" : "CHAR",
+      "length" : 10,
+      "nullable" : true
+    }, {
+      "name" : "URDMSKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URSTKKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URTSNO",
+      "dataType" : "CHAR",
+      "length" : 6,
+      "nullable" : true
+    }, {
+      "name" : "DMATOME",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "MOTOHIN",
+      "dataType" : "CHAR",
+      "length" : 15,
+      "nullable" : true
+    }, {
+      "name" : "URSYOKAI",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "MITUNO",
+      "dataType" : "CHAR",
+      "length" : 6,
+      "nullable" : true
+    }, {
+      "name" : "URIKONKYO",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HIKIKONKYO",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "KENTYPE",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "URHKDMCD",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "URHKSKDMCD",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "URHKKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "LMPBBKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "EDHIN20",
+      "dataType" : "CHAR",
+      "length" : 20,
+      "nullable" : true
+    }, {
+      "name" : "LMPBUTAN",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "LMPBKING",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "JUDAT",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "KOJINO20",
+      "dataType" : "CHAR",
+      "length" : 20,
+      "nullable" : true
+    }, {
+      "name" : "SYODANNO",
+      "dataType" : "CHAR",
+      "length" : 10,
+      "nullable" : true
+    }, {
+      "name" : "KUHIN",
+      "dataType" : "CHAR",
+      "length" : 17,
+      "nullable" : true
+    }, {
+      "name" : "SGAISEKKBN",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "ZAIKOU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "YYMM",
+      "dataType" : "CHAR",
+      "length" : 6,
+      "nullable" : true
+    }, {
+      "name" : "URCHNO15",
+      "dataType" : "CHAR",
+      "length" : 15,
+      "nullable" : true
+    } ],
+    "caching" : {
+      "enable" : true,
+      "expiryTime" : 0
+    }
+  }
+}

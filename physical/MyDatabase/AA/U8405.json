@@ -1,0 +1,1266 @@
+{
+  "physicalTable" : {
+    "name" : "U8405",
+    "sourceType" : "TABLE",
+    "physicalColumns" : [ {
+      "name" : "HIN",
+      "dataType" : "CHAR",
+      "length" : 15,
+      "nullable" : true
+    }, {
+      "name" : "JIG",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "UKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "GKU",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "BKU",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "ZKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "PLMKB",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "IMKB",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HYOT",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "JHSEISKB",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "JHKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "SKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HINNAM",
+      "dataType" : "CHAR",
+      "length" : 20,
+      "nullable" : true
+    }, {
+      "name" : "HINMK",
+      "dataType" : "CHAR",
+      "length" : 30,
+      "nullable" : true
+    }, {
+      "name" : "HINNAMK",
+      "dataType" : "CHAR",
+      "length" : 20,
+      "nullable" : true
+    }, {
+      "name" : "HINNAMK20",
+      "dataType" : "VARCHAR",
+      "length" : 20,
+      "nullable" : true
+    }, {
+      "name" : "HINKGK",
+      "dataType" : "VARCHAR",
+      "length" : 20,
+      "nullable" : true
+    }, {
+      "name" : "KDOHSIK",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "DENATU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "UIKTHBEXT",
+      "dataType" : "CHAR",
+      "length" : 25,
+      "nullable" : true
+    }, {
+      "name" : "EDHINEXT",
+      "dataType" : "CHAR",
+      "length" : 27,
+      "nullable" : true
+    }, {
+      "name" : "TAND",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "TANL",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "TANM",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "TANML",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "TANH",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "TANK",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "TANS",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "TANSZEI",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "KAZEIKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "SIZCD",
+      "dataType" : "CHAR",
+      "length" : 4,
+      "nullable" : true
+    }, {
+      "name" : "STHIN",
+      "dataType" : "CHAR",
+      "length" : 13,
+      "nullable" : true
+    }, {
+      "name" : "HATDAY",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "STPDAY",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "STPDAYMJ",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "KANSAN",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "KU2000",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "DOUHAKUE",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "DOUHUEMJ",
+      "dataType" : "CHAR",
+      "length" : 6,
+      "nullable" : true
+    }, {
+      "name" : "DOUHAKSI",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "DOUHSIMJ",
+      "dataType" : "CHAR",
+      "length" : 6,
+      "nullable" : true
+    }, {
+      "name" : "SAFIX",
+      "dataType" : "CHAR",
+      "length" : 4,
+      "nullable" : true
+    }, {
+      "name" : "IROGCD",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "DAIKAE1",
+      "dataType" : "CHAR",
+      "length" : 25,
+      "nullable" : true
+    }, {
+      "name" : "KKHINHJK1",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "KKHINKB1",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "KKHINMSG1",
+      "dataType" : "VARCHAR",
+      "length" : 30,
+      "nullable" : true
+    }, {
+      "name" : "KKHINKLV1",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "DAIKAE2",
+      "dataType" : "CHAR",
+      "length" : 13,
+      "nullable" : true
+    }, {
+      "name" : "KKHINHJK2",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "KKHINKB2",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "KKHINMSG2",
+      "dataType" : "VARCHAR",
+      "length" : 30,
+      "nullable" : true
+    }, {
+      "name" : "KKHINKLV2",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "DAIKAE3",
+      "dataType" : "CHAR",
+      "length" : 13,
+      "nullable" : true
+    }, {
+      "name" : "KKHINHJK3",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "KKHINKB3",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "KKHINMSG3",
+      "dataType" : "VARCHAR",
+      "length" : 30,
+      "nullable" : true
+    }, {
+      "name" : "KKHINKLV3",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "MESSAJI",
+      "dataType" : "VARCHAR",
+      "length" : 30,
+      "nullable" : true
+    }, {
+      "name" : "MESSAJILV",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "SUISYOHINBEXT",
+      "dataType" : "CHAR",
+      "length" : 25,
+      "nullable" : true
+    }, {
+      "name" : "SUISHINKLV",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HAKS",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "HAKU",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "SUTANKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "JYUR",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "SAIS",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "LENG",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "LENGMJ",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "WIDE",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "WIDEMJ",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "HIGH",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "HIGHMJ",
+      "dataType" : "CHAR",
+      "length" : 10,
+      "nullable" : true
+    }, {
+      "name" : "TANDN",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "TANDO",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "TANHKPDY",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "HNCONT",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "GUN1",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "GUN2",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "HKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "KCDD",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "NEWKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "TCD1",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "TCD2",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "TCD3",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "JANCD",
+      "dataType" : "CHAR",
+      "length" : 13,
+      "nullable" : true
+    }, {
+      "name" : "SNKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HRKU01",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HRKU02",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HRKU03",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HRKU04",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HRKU05",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HRKU06",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HRKU07",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HRKU08",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "USERKA",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "USERKB",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "USERKC",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "USERKD",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "USERKE",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "USERKF",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "USERKG",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "USERKH",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "USERKI",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "USERKJ",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "JIGFKK",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "JIGFKL",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "JIGFKM",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "JIGFKN",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "JIGFKO",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "NSG",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "KYOKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "NFUKA",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "TKYO",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "SEIDT",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "NHRIT",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "KANST",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "KDCD",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "KCD1",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "KCD3",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "JHNOKI",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "JTNKAK",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "KANRIBS",
+      "dataType" : "CHAR",
+      "length" : 4,
+      "nullable" : true
+    }, {
+      "name" : "HIKIK",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "MITEI",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "SKK",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "YOYK",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HASCK",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "KAIGSEIK",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "TANUPG",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "CYCL",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "SSOKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HAIBUNTK",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "UTANI",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "SYTAN",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "TANMNTL",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "TANMNT",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "MNETRIT",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "ECOKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "UNIKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "SYUURIKB",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "SMITEI",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "DZKO",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "JYUCK",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "UPLMT",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "AITEGK",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "NHINB",
+      "dataType" : "CHAR",
+      "length" : 20,
+      "nullable" : true
+    }, {
+      "name" : "MEIZAIKK",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "SKMKHB",
+      "dataType" : "CHAR",
+      "length" : 4,
+      "nullable" : true
+    }, {
+      "name" : "CATGRKU",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "TEIRITUKB",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "GCSTRSK",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "POKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "MEIHKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "PBSTAYM",
+      "dataType" : "CHAR",
+      "length" : 6,
+      "nullable" : true
+    }, {
+      "name" : "PRDENDJSDT",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "NIKHYUKGEN",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "SESANENDDT",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "HANBAIENDD",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "SBKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HINNKB",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "CTHINBEXT",
+      "dataType" : "CHAR",
+      "length" : 25,
+      "nullable" : true
+    }, {
+      "name" : "CTPNO",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "SKAUK",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "JHKHKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "YUSOK",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "DZSUISKB",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "SYKKU",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "OPKHK",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HTAIPENDD",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "GCSDCAT",
+      "dataType" : "CHAR",
+      "length" : 5,
+      "nullable" : true
+    }, {
+      "name" : "SKMKHBKA",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "SKMKHBKB",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "SKMKHBKC",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "SKMKHBKD",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "SKMKHBKE",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "SKMKHBKF",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "SKMKHBKG",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "SKMKHBKH",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "SKMKHBKI",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "SKMKHBKJ",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "RSDT",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "RSHMS",
+      "dataType" : "CHAR",
+      "length" : 6,
+      "nullable" : true
+    }, {
+      "name" : "RSWSNO",
+      "dataType" : "CHAR",
+      "length" : 6,
+      "nullable" : true
+    }, {
+      "name" : "RKDT",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "RKHMS",
+      "dataType" : "CHAR",
+      "length" : 6,
+      "nullable" : true
+    }, {
+      "name" : "RKWSNO",
+      "dataType" : "CHAR",
+      "length" : 6,
+      "nullable" : true
+    }, {
+      "name" : "DGPNITNO",
+      "dataType" : "CHAR",
+      "length" : 9,
+      "nullable" : true
+    }, {
+      "name" : "CO2CUTKB",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "MKSGPKB",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "KKUKRICD",
+      "dataType" : "CHAR",
+      "length" : 5,
+      "nullable" : true
+    }, {
+      "name" : "SEKITAN",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "NSKUKB",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "STYPCD",
+      "dataType" : "CHAR",
+      "length" : 3,
+      "nullable" : true
+    }, {
+      "name" : "SYUWAKUCD",
+      "dataType" : "CHAR",
+      "length" : 4,
+      "nullable" : true
+    }, {
+      "name" : "SYUWAKUDTF",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "SYUWAKUDTT",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "IKKAK",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "IKKAS",
+      "dataType" : "NUMERIC",
+      "length" : 0,
+      "nullable" : true
+    }, {
+      "name" : "JYUCDM",
+      "dataType" : "CHAR",
+      "length" : 6,
+      "nullable" : true
+    }, {
+      "name" : "JYUCDN",
+      "dataType" : "CHAR",
+      "length" : 6,
+      "nullable" : true
+    }, {
+      "name" : "JYUCDO",
+      "dataType" : "CHAR",
+      "length" : 6,
+      "nullable" : true
+    }, {
+      "name" : "JYUCDDT",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "SUUSYUKBN",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "KINSYUKBN",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "ZKAGIRI",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "ZKAGIRIDTF",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "ZKAGIRIDTT",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "NOUKITSKKBN",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "SUUHETSKKBN",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "KAITEIDT",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "KAITEIDTF",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "KAITEIDTE",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "KTEKIYODTE",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "BETUBUNHKBN",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "KINNKYUU1",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "KINNKYUU2",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "TEKIYOUHOU1",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "TEKIYOUHOU2",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "TEKIYOUHOU3",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "MITUTAN",
+      "dataType" : "CHAR",
+      "length" : 2,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT01",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT02",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT03",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT04",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT05",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT06",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT07",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT08",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT09",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT10",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT11",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT12",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT13",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT14",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT15",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT16",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT17",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT18",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT19",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT20",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT21",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT22",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT23",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HBROOT24",
+      "dataType" : "VARCHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "HENPIRIKB",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    }, {
+      "name" : "GKAITEIDT",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "GKAITEIDTF",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "GKAITEIDTE",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "GTEKIYODTE",
+      "dataType" : "CHAR",
+      "length" : 8,
+      "nullable" : true
+    }, {
+      "name" : "NOKIHKBN",
+      "dataType" : "CHAR",
+      "length" : 1,
+      "nullable" : true
+    } ],
+    "caching" : {
+      "enable" : true,
+      "expiryTime" : 0
+    }
+  }
+}

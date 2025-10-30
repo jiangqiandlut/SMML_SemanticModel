@@ -1,0 +1,759 @@
+{
+  "presentationTable" : {
+    "name" : "U8405",
+    "presentationColumns" : [ {
+      "name" : "Hin",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hin"
+    }, {
+      "name" : "Jig",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Jig"
+    }, {
+      "name" : "Uku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Uku"
+    }, {
+      "name" : "Gku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Gku"
+    }, {
+      "name" : "Bku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Bku"
+    }, {
+      "name" : "Zku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Zku"
+    }, {
+      "name" : "Plmkb",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Plmkb"
+    }, {
+      "name" : "Imkb",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Imkb"
+    }, {
+      "name" : "Hyot",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hyot"
+    }, {
+      "name" : "Jhseiskb",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Jhseiskb"
+    }, {
+      "name" : "Jhku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Jhku"
+    }, {
+      "name" : "Sku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Sku"
+    }, {
+      "name" : "Hinnam",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hinnam"
+    }, {
+      "name" : "Hinmk",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hinmk"
+    }, {
+      "name" : "Hinnamk",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hinnamk"
+    }, {
+      "name" : "Hinnamk20",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hinnamk20"
+    }, {
+      "name" : "Hinkgk",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hinkgk"
+    }, {
+      "name" : "Kdohsik",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kdohsik"
+    }, {
+      "name" : "Denatu",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Denatu"
+    }, {
+      "name" : "Uikthbext",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Uikthbext"
+    }, {
+      "name" : "Edhinext",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Edhinext"
+    }, {
+      "name" : "Tand",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Tand"
+    }, {
+      "name" : "Tanl",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Tanl"
+    }, {
+      "name" : "Tanm",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Tanm"
+    }, {
+      "name" : "Tanml",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Tanml"
+    }, {
+      "name" : "Tanh",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Tanh"
+    }, {
+      "name" : "Tank",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Tank"
+    }, {
+      "name" : "Tans",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Tans"
+    }, {
+      "name" : "Tanszei",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Tanszei"
+    }, {
+      "name" : "Kazeiku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kazeiku"
+    }, {
+      "name" : "Sizcd",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Sizcd"
+    }, {
+      "name" : "Sthin",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Sthin"
+    }, {
+      "name" : "Hatday",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hatday"
+    }, {
+      "name" : "Stpday",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Stpday"
+    }, {
+      "name" : "Stpdaymj",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Stpdaymj"
+    }, {
+      "name" : "Kansan",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kansan"
+    }, {
+      "name" : "Ku2000",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Ku2000"
+    }, {
+      "name" : "Douhakue",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Douhakue"
+    }, {
+      "name" : "Douhuemj",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Douhuemj"
+    }, {
+      "name" : "Douhaksi",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Douhaksi"
+    }, {
+      "name" : "Douhsimj",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Douhsimj"
+    }, {
+      "name" : "Safix",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Safix"
+    }, {
+      "name" : "Irogcd",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Irogcd"
+    }, {
+      "name" : "Daikae1",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Daikae1"
+    }, {
+      "name" : "Kkhinhjk1",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kkhinhjk1"
+    }, {
+      "name" : "Kkhinkb1",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kkhinkb1"
+    }, {
+      "name" : "Kkhinmsg1",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kkhinmsg1"
+    }, {
+      "name" : "Kkhinklv1",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kkhinklv1"
+    }, {
+      "name" : "Daikae2",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Daikae2"
+    }, {
+      "name" : "Kkhinhjk2",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kkhinhjk2"
+    }, {
+      "name" : "Kkhinkb2",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kkhinkb2"
+    }, {
+      "name" : "Kkhinmsg2",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kkhinmsg2"
+    }, {
+      "name" : "Kkhinklv2",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kkhinklv2"
+    }, {
+      "name" : "Daikae3",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Daikae3"
+    }, {
+      "name" : "Kkhinhjk3",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kkhinhjk3"
+    }, {
+      "name" : "Kkhinkb3",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kkhinkb3"
+    }, {
+      "name" : "Kkhinmsg3",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kkhinmsg3"
+    }, {
+      "name" : "Kkhinklv3",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kkhinklv3"
+    }, {
+      "name" : "Messaji",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Messaji"
+    }, {
+      "name" : "Messajilv",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Messajilv"
+    }, {
+      "name" : "Suisyohinbext",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Suisyohinbext"
+    }, {
+      "name" : "Suishinklv",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Suishinklv"
+    }, {
+      "name" : "Haks",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Haks"
+    }, {
+      "name" : "Haku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Haku"
+    }, {
+      "name" : "Sutanku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Sutanku"
+    }, {
+      "name" : "Jyur",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Jyur"
+    }, {
+      "name" : "Sais",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Sais"
+    }, {
+      "name" : "Leng",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Leng"
+    }, {
+      "name" : "Lengmj",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Lengmj"
+    }, {
+      "name" : "Wide",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Wide"
+    }, {
+      "name" : "Widemj",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Widemj"
+    }, {
+      "name" : "High",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.High"
+    }, {
+      "name" : "Highmj",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Highmj"
+    }, {
+      "name" : "Tandn",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Tandn"
+    }, {
+      "name" : "Tando",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Tando"
+    }, {
+      "name" : "Tanhkpdy",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Tanhkpdy"
+    }, {
+      "name" : "Hncont",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hncont"
+    }, {
+      "name" : "Gun1",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Gun1"
+    }, {
+      "name" : "Gun2",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Gun2"
+    }, {
+      "name" : "Hku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hku"
+    }, {
+      "name" : "Kcdd",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kcdd"
+    }, {
+      "name" : "Newku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Newku"
+    }, {
+      "name" : "Tcd1",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Tcd1"
+    }, {
+      "name" : "Tcd2",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Tcd2"
+    }, {
+      "name" : "Tcd3",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Tcd3"
+    }, {
+      "name" : "Jancd",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Jancd"
+    }, {
+      "name" : "Snku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Snku"
+    }, {
+      "name" : "Hrku01",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hrku01"
+    }, {
+      "name" : "Hrku02",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hrku02"
+    }, {
+      "name" : "Hrku03",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hrku03"
+    }, {
+      "name" : "Hrku04",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hrku04"
+    }, {
+      "name" : "Hrku05",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hrku05"
+    }, {
+      "name" : "Hrku06",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hrku06"
+    }, {
+      "name" : "Hrku07",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hrku07"
+    }, {
+      "name" : "Hrku08",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hrku08"
+    }, {
+      "name" : "Userka",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Userka"
+    }, {
+      "name" : "Userkb",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Userkb"
+    }, {
+      "name" : "Userkc",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Userkc"
+    }, {
+      "name" : "Userkd",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Userkd"
+    }, {
+      "name" : "Userke",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Userke"
+    }, {
+      "name" : "Userkf",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Userkf"
+    }, {
+      "name" : "Userkg",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Userkg"
+    }, {
+      "name" : "Userkh",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Userkh"
+    }, {
+      "name" : "Userki",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Userki"
+    }, {
+      "name" : "Userkj",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Userkj"
+    }, {
+      "name" : "Jigfkk",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Jigfkk"
+    }, {
+      "name" : "Jigfkl",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Jigfkl"
+    }, {
+      "name" : "Jigfkm",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Jigfkm"
+    }, {
+      "name" : "Jigfkn",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Jigfkn"
+    }, {
+      "name" : "Jigfko",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Jigfko"
+    }, {
+      "name" : "Nsg",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Nsg"
+    }, {
+      "name" : "Kyoku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kyoku"
+    }, {
+      "name" : "Nfuka",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Nfuka"
+    }, {
+      "name" : "Tkyo",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Tkyo"
+    }, {
+      "name" : "Seidt",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Seidt"
+    }, {
+      "name" : "Nhrit",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Nhrit"
+    }, {
+      "name" : "Kanst",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kanst"
+    }, {
+      "name" : "Kdcd",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kdcd"
+    }, {
+      "name" : "Kcd1",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kcd1"
+    }, {
+      "name" : "Kcd3",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kcd3"
+    }, {
+      "name" : "Jhnoki",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Jhnoki"
+    }, {
+      "name" : "Jtnkak",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Jtnkak"
+    }, {
+      "name" : "Kanribs",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kanribs"
+    }, {
+      "name" : "Hikik",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hikik"
+    }, {
+      "name" : "Mitei",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Mitei"
+    }, {
+      "name" : "Skk",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Skk"
+    }, {
+      "name" : "Yoyk",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Yoyk"
+    }, {
+      "name" : "Hasck",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hasck"
+    }, {
+      "name" : "Kaigseik",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kaigseik"
+    }, {
+      "name" : "Tanupg",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Tanupg"
+    }, {
+      "name" : "Cycl",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Cycl"
+    }, {
+      "name" : "Ssoku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Ssoku"
+    }, {
+      "name" : "Haibuntk",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Haibuntk"
+    }, {
+      "name" : "Utani",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Utani"
+    }, {
+      "name" : "Sytan",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Sytan"
+    }, {
+      "name" : "Tanmntl",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Tanmntl"
+    }, {
+      "name" : "Tanmnt",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Tanmnt"
+    }, {
+      "name" : "Mnetrit",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Mnetrit"
+    }, {
+      "name" : "Ecoku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Ecoku"
+    }, {
+      "name" : "Uniku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Uniku"
+    }, {
+      "name" : "Syuurikb",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Syuurikb"
+    }, {
+      "name" : "Smitei",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Smitei"
+    }, {
+      "name" : "Dzko",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Dzko"
+    }, {
+      "name" : "Jyuck",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Jyuck"
+    }, {
+      "name" : "Uplmt",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Uplmt"
+    }, {
+      "name" : "Aitegk",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Aitegk"
+    }, {
+      "name" : "Nhinb",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Nhinb"
+    }, {
+      "name" : "Meizaikk",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Meizaikk"
+    }, {
+      "name" : "Skmkhb",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Skmkhb"
+    }, {
+      "name" : "Catgrku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Catgrku"
+    }, {
+      "name" : "Teiritukb",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Teiritukb"
+    }, {
+      "name" : "Gcstrsk",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Gcstrsk"
+    }, {
+      "name" : "Poku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Poku"
+    }, {
+      "name" : "Meihku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Meihku"
+    }, {
+      "name" : "Pbstaym",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Pbstaym"
+    }, {
+      "name" : "Prdendjsdt",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Prdendjsdt"
+    }, {
+      "name" : "Nikhyukgen",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Nikhyukgen"
+    }, {
+      "name" : "Sesanenddt",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Sesanenddt"
+    }, {
+      "name" : "Hanbaiendd",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hanbaiendd"
+    }, {
+      "name" : "Sbku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Sbku"
+    }, {
+      "name" : "Hinnkb",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hinnkb"
+    }, {
+      "name" : "Cthinbext",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Cthinbext"
+    }, {
+      "name" : "Ctpno",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Ctpno"
+    }, {
+      "name" : "Skauk",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Skauk"
+    }, {
+      "name" : "Jhkhku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Jhkhku"
+    }, {
+      "name" : "Yusok",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Yusok"
+    }, {
+      "name" : "Dzsuiskb",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Dzsuiskb"
+    }, {
+      "name" : "Sykku",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Sykku"
+    }, {
+      "name" : "Opkhk",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Opkhk"
+    }, {
+      "name" : "Htaipendd",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Htaipendd"
+    }, {
+      "name" : "Gcsdcat",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Gcsdcat"
+    }, {
+      "name" : "Skmkhbka",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Skmkhbka"
+    }, {
+      "name" : "Skmkhbkb",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Skmkhbkb"
+    }, {
+      "name" : "Skmkhbkc",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Skmkhbkc"
+    }, {
+      "name" : "Skmkhbkd",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Skmkhbkd"
+    }, {
+      "name" : "Skmkhbke",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Skmkhbke"
+    }, {
+      "name" : "Skmkhbkf",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Skmkhbkf"
+    }, {
+      "name" : "Skmkhbkg",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Skmkhbkg"
+    }, {
+      "name" : "Skmkhbkh",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Skmkhbkh"
+    }, {
+      "name" : "Skmkhbki",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Skmkhbki"
+    }, {
+      "name" : "Skmkhbkj",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Skmkhbkj"
+    }, {
+      "name" : "Rsdt",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Rsdt"
+    }, {
+      "name" : "Rshms",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Rshms"
+    }, {
+      "name" : "Rswsno",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Rswsno"
+    }, {
+      "name" : "Rkdt",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Rkdt"
+    }, {
+      "name" : "Rkhms",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Rkhms"
+    }, {
+      "name" : "Rkwsno",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Rkwsno"
+    }, {
+      "name" : "Dgpnitno",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Dgpnitno"
+    }, {
+      "name" : "Co2cutkb",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Co2cutkb"
+    }, {
+      "name" : "Mksgpkb",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Mksgpkb"
+    }, {
+      "name" : "Kkukricd",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kkukricd"
+    }, {
+      "name" : "Sekitan",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Sekitan"
+    }, {
+      "name" : "Nskukb",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Nskukb"
+    }, {
+      "name" : "Stypcd",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Stypcd"
+    }, {
+      "name" : "Syuwakucd",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Syuwakucd"
+    }, {
+      "name" : "Syuwakudtf",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Syuwakudtf"
+    }, {
+      "name" : "Syuwakudtt",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Syuwakudtt"
+    }, {
+      "name" : "Ikkak",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Ikkak"
+    }, {
+      "name" : "Ikkas",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Ikkas"
+    }, {
+      "name" : "Jyucdm",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Jyucdm"
+    }, {
+      "name" : "Jyucdn",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Jyucdn"
+    }, {
+      "name" : "Jyucdo",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Jyucdo"
+    }, {
+      "name" : "Jyucddt",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Jyucddt"
+    }, {
+      "name" : "Suusyukbn",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Suusyukbn"
+    }, {
+      "name" : "Kinsyukbn",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kinsyukbn"
+    }, {
+      "name" : "Zkagiri",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Zkagiri"
+    }, {
+      "name" : "Zkagiridtf",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Zkagiridtf"
+    }, {
+      "name" : "Zkagiridtt",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Zkagiridtt"
+    }, {
+      "name" : "Noukitskkbn",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Noukitskkbn"
+    }, {
+      "name" : "Suuhetskkbn",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Suuhetskkbn"
+    }, {
+      "name" : "Kaiteidt",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kaiteidt"
+    }, {
+      "name" : "Kaiteidtf",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kaiteidtf"
+    }, {
+      "name" : "Kaiteidte",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kaiteidte"
+    }, {
+      "name" : "Ktekiyodte",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Ktekiyodte"
+    }, {
+      "name" : "Betubunhkbn",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Betubunhkbn"
+    }, {
+      "name" : "Kinnkyuu1",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kinnkyuu1"
+    }, {
+      "name" : "Kinnkyuu2",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Kinnkyuu2"
+    }, {
+      "name" : "Tekiyouhou1",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Tekiyouhou1"
+    }, {
+      "name" : "Tekiyouhou2",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Tekiyouhou2"
+    }, {
+      "name" : "Tekiyouhou3",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Tekiyouhou3"
+    }, {
+      "name" : "Mitutan",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Mitutan"
+    }, {
+      "name" : "Hbroot01",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot01"
+    }, {
+      "name" : "Hbroot02",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot02"
+    }, {
+      "name" : "Hbroot03",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot03"
+    }, {
+      "name" : "Hbroot04",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot04"
+    }, {
+      "name" : "Hbroot05",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot05"
+    }, {
+      "name" : "Hbroot06",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot06"
+    }, {
+      "name" : "Hbroot07",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot07"
+    }, {
+      "name" : "Hbroot08",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot08"
+    }, {
+      "name" : "Hbroot09",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot09"
+    }, {
+      "name" : "Hbroot10",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot10"
+    }, {
+      "name" : "Hbroot11",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot11"
+    }, {
+      "name" : "Hbroot12",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot12"
+    }, {
+      "name" : "Hbroot13",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot13"
+    }, {
+      "name" : "Hbroot14",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot14"
+    }, {
+      "name" : "Hbroot15",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot15"
+    }, {
+      "name" : "Hbroot16",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot16"
+    }, {
+      "name" : "Hbroot17",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot17"
+    }, {
+      "name" : "Hbroot18",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot18"
+    }, {
+      "name" : "Hbroot19",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot19"
+    }, {
+      "name" : "Hbroot20",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot20"
+    }, {
+      "name" : "Hbroot21",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot21"
+    }, {
+      "name" : "Hbroot22",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot22"
+    }, {
+      "name" : "Hbroot23",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot23"
+    }, {
+      "name" : "Hbroot24",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Hbroot24"
+    }, {
+      "name" : "Henpirikb",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Henpirikb"
+    }, {
+      "name" : "Gkaiteidt",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Gkaiteidt"
+    }, {
+      "name" : "Gkaiteidtf",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Gkaiteidtf"
+    }, {
+      "name" : "Gkaiteidte",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Gkaiteidte"
+    }, {
+      "name" : "Gtekiyodte",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Gtekiyodte"
+    }, {
+      "name" : "Nokihkbn",
+      "sourceLogicalColumn" : "logicalColumn:BusinessModel.U8405.Nokihkbn"
+    } ]
+  }
+}
