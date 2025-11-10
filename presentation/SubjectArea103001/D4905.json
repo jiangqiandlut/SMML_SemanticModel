@@ -1,1 +1,1271 @@
-tttttttttttttt
+{
+    "presentationTable": {
+        "name": "D4905",
+        "presentationColumns": [
+            {
+                "name": "品番",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Hin20"
+            },
+            {
+                "name": "事業部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jig"
+            },
+            {
+                "name": "売区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Uku"
+            },
+            {
+                "name": "Ｇ区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Gku"
+            },
+            {
+                "name": "商品分類区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Bku"
+            },
+            {
+                "name": "在庫区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Zku"
+            },
+            {
+                "name": "ＰＬＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Plmkb"
+            },
+            {
+                "name": "製品部品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Sbku"
+            },
+            {
+                "name": "ＩＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Imkb"
+            },
+            {
+                "name": "商品内容区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Snku"
+            },
+            {
+                "name": "受注生産品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jhseiskb"
+            },
+            {
+                "name": "代理店在庫推奨品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Dzsuiskb"
+            },
+            {
+                "name": "代理店渡単価",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Tand9"
+            },
+            {
+                "name": "発売年月",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Hadt9"
+            },
+            {
+                "name": "生産中止日",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Stpday"
+            },
+            {
+                "name": "新商品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Nsku"
+            },
+            {
+                "name": "季節商品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kisku"
+            },
+            {
+                "name": "海外生産品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kaigaikb"
+            },
+            {
+                "name": "対象外区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Selgai"
+            },
+            {
+                "name": "工場代表コード",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kdcd"
+            },
+            {
+                "name": "Cd Kojyo 1",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Cd Kojyo 1"
+            },
+            {
+                "name": "Cd Kojyo 2",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Cd Kojyo 2"
+            },
+            {
+                "name": "取引先コード１",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Tcd1"
+            },
+            {
+                "name": "取引先コード２",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Tcd2"
+            },
+            {
+                "name": "取引先コード３",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Tcd3"
+            },
+            {
+                "name": "主管マーケティング本部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Smk"
+            },
+            {
+                "name": "分類区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Bkbn"
+            },
+            {
+                "name": "継続回数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kcount"
+            },
+            {
+                "name": "３ヶ月平均売上数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.T1h3suu"
+            },
+            {
+                "name": "１ヶ月前生産実績数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jnsuu01"
+            },
+            {
+                "name": "１ヶ月前営業販売数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Eusuu01"
+            },
+            {
+                "name": "１ヶ月前社販部販数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jusuu01"
+            },
+            {
+                "name": "１ヶ月前直販輸出数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Cusuu01"
+            },
+            {
+                "name": "１ヶ月前後方在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jzsuu01"
+            },
+            {
+                "name": "１ヶ月前前線在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mzsuu01"
+            },
+            {
+                "name": "１ヶ月前後方引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jhsuu01"
+            },
+            {
+                "name": "１ヶ月前前線引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mhsuu01"
+            },
+            {
+                "name": "１ヶ月前決算事業部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjig01"
+            },
+            {
+                "name": "１ヶ月前決算売区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kuku01"
+            },
+            {
+                "name": "１ヶ月前決算Ｇ区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kgku01"
+            },
+            {
+                "name": "１ヶ月前決算商品分類区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kbunkbn01"
+            },
+            {
+                "name": "１ヶ月前決算在庫区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kzku01"
+            },
+            {
+                "name": "１ヶ月前決算ＰＬＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kplmkb01"
+            },
+            {
+                "name": "１ヶ月前決算新商品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Knsku01"
+            },
+            {
+                "name": "１ヶ月前決算主管マーケティング本部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksmk01"
+            },
+            {
+                "name": "１ヶ月前決算ＩＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kimkb01"
+            },
+            {
+                "name": "１ヶ月前決算商品内容区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksnku01"
+            },
+            {
+                "name": "１ヶ月前決算受注生産品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjseiskb01"
+            },
+            {
+                "name": "１ヶ月前決算代理店在庫推奨品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kdzsuikb01"
+            },
+            {
+                "name": "１ヶ月前在庫月数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Zgetu01"
+            },
+            {
+                "name": "１ヶ月前過剰区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kajo01"
+            },
+            {
+                "name": "２ヶ月前生産実績数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jnsuu02"
+            },
+            {
+                "name": "２ヶ月前営業販売数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Eusuu02"
+            },
+            {
+                "name": "２ヶ月前社販部販数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jusuu02"
+            },
+            {
+                "name": "２ヶ月前直販輸出数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Cusuu02"
+            },
+            {
+                "name": "２ヶ月前後方在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jzsuu02"
+            },
+            {
+                "name": "２ヶ月前前線在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mzsuu02"
+            },
+            {
+                "name": "２ヶ月前後方引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jhsuu02"
+            },
+            {
+                "name": "２ヶ月前前線引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mhsuu02"
+            },
+            {
+                "name": "２ヶ月前決算事業部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjig02"
+            },
+            {
+                "name": "２ヶ月前決算売区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kuku02"
+            },
+            {
+                "name": "２ヶ月前決算Ｇ区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kgku02"
+            },
+            {
+                "name": "２ヶ月前決算商品分類区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kbunkbn02"
+            },
+            {
+                "name": "２ヶ月前決算在庫区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kzku02"
+            },
+            {
+                "name": "２ヶ月前決算ＰＬＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kplmkb02"
+            },
+            {
+                "name": "２ヶ月前決算新商品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Knsku02"
+            },
+            {
+                "name": "２ヶ月前決算主管マーケティング本部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksmk02"
+            },
+            {
+                "name": "２ヶ月前決算ＩＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kimkb02"
+            },
+            {
+                "name": "２ヶ月前決算商品内容区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksnku02"
+            },
+            {
+                "name": "２ヶ月前決算受注生産品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjseiskb02"
+            },
+            {
+                "name": "２ヶ月前決算代理店在庫推奨品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kdzsuikb02"
+            },
+            {
+                "name": "２ヶ月前在庫月数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Zgetu02"
+            },
+            {
+                "name": "２ヶ月前過剰区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kajo02"
+            },
+            {
+                "name": "３ヶ月前生産実績数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jnsuu03"
+            },
+            {
+                "name": "３ヶ月前営業販売数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Eusuu03"
+            },
+            {
+                "name": "３ヶ月前社販部販数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jusuu03"
+            },
+            {
+                "name": "３ヶ月前直販輸出数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Cusuu03"
+            },
+            {
+                "name": "３ヶ月前後方在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jzsuu03"
+            },
+            {
+                "name": "３ヶ月前前線在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mzsuu03"
+            },
+            {
+                "name": "３ヶ月前後方引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jhsuu03"
+            },
+            {
+                "name": "３ヶ月前前線引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mhsuu03"
+            },
+            {
+                "name": "３ヶ月前決算事業部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjig03"
+            },
+            {
+                "name": "３ヶ月前決算売区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kuku03"
+            },
+            {
+                "name": "３ヶ月前決算Ｇ区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kgku03"
+            },
+            {
+                "name": "３ヶ月前決算商品分類区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kbunkbn03"
+            },
+            {
+                "name": "３ヶ月前決算在庫区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kzku03"
+            },
+            {
+                "name": "３ヶ月前決算ＰＬＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kplmkb03"
+            },
+            {
+                "name": "３ヶ月前決算新商品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Knsku03"
+            },
+            {
+                "name": "３ヶ月前決算主管マーケティング本部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksmk03"
+            },
+            {
+                "name": "３ヶ月前決算ＩＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kimkb03"
+            },
+            {
+                "name": "３ヶ月前決算商品内容区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksnku03"
+            },
+            {
+                "name": "３ヶ月前決算受注生産品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjseiskb03"
+            },
+            {
+                "name": "３ヶ月前決算代理店在庫推奨品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kdzsuikb03"
+            },
+            {
+                "name": "３ヶ月前在庫月数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Zgetu03"
+            },
+            {
+                "name": "３ヶ月前過剰区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kajo03"
+            },
+            {
+                "name": "４ヶ月前生産実績数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jnsuu04"
+            },
+            {
+                "name": "４ヶ月前営業販売数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Eusuu04"
+            },
+            {
+                "name": "４ヶ月前社販部販数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jusuu04"
+            },
+            {
+                "name": "４ヶ月前直販輸出数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Cusuu04"
+            },
+            {
+                "name": "４ヶ月前後方在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jzsuu04"
+            },
+            {
+                "name": "４ヶ月前前線在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mzsuu04"
+            },
+            {
+                "name": "４ヶ月前後方引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jhsuu04"
+            },
+            {
+                "name": "４ヶ月前前線引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mhsuu04"
+            },
+            {
+                "name": "４ヶ月前決算事業部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjig04"
+            },
+            {
+                "name": "４ヶ月前決算売区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kuku04"
+            },
+            {
+                "name": "４ヶ月前決算Ｇ区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kgku04"
+            },
+            {
+                "name": "４ヶ月前決算商品分類区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kbunkbn04"
+            },
+            {
+                "name": "４ヶ月前決算在庫区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kzku04"
+            },
+            {
+                "name": "４ヶ月前決算ＰＬＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kplmkb04"
+            },
+            {
+                "name": "４ヶ月前決算新商品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Knsku04"
+            },
+            {
+                "name": "４ヶ月前決算主管マーケティング本部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksmk04"
+            },
+            {
+                "name": "４ヶ月前決算ＩＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kimkb04"
+            },
+            {
+                "name": "４ヶ月前決算商品内容区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksnku04"
+            },
+            {
+                "name": "４ヶ月前決算受注生産品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjseiskb04"
+            },
+            {
+                "name": "４ヶ月前決算代理店在庫推奨品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kdzsuikb04"
+            },
+            {
+                "name": "４ヶ月前在庫月数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Zgetu04"
+            },
+            {
+                "name": "４ヶ月前過剰区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kajo04"
+            },
+            {
+                "name": "５ヶ月前生産実績数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jnsuu05"
+            },
+            {
+                "name": "５ヶ月前営業販売数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Eusuu05"
+            },
+            {
+                "name": "５ヶ月前社販部販数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jusuu05"
+            },
+            {
+                "name": "５ヶ月前直販輸出数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Cusuu05"
+            },
+            {
+                "name": "５ヶ月前後方在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jzsuu05"
+            },
+            {
+                "name": "５ヶ月前前線在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mzsuu05"
+            },
+            {
+                "name": "５ヶ月前後方引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jhsuu05"
+            },
+            {
+                "name": "５ヶ月前前線引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mhsuu05"
+            },
+            {
+                "name": "５ヶ月前決算事業部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjig05"
+            },
+            {
+                "name": "５ヶ月前決算売区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kuku05"
+            },
+            {
+                "name": "５ヶ月前決算Ｇ区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kgku05"
+            },
+            {
+                "name": "５ヶ月前決算商品分類区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kbunkbn05"
+            },
+            {
+                "name": "５ヶ月前決算在庫区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kzku05"
+            },
+            {
+                "name": "５ヶ月前決算ＰＬＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kplmkb05"
+            },
+            {
+                "name": "５ヶ月前決算新商品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Knsku05"
+            },
+            {
+                "name": "５ヶ月前決算主管マーケティング本部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksmk05"
+            },
+            {
+                "name": "５ヶ月前決算ＩＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kimkb05"
+            },
+            {
+                "name": "５ヶ月前決算商品内容区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksnku05"
+            },
+            {
+                "name": "５ヶ月前決算受注生産品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjseiskb05"
+            },
+            {
+                "name": "５ヶ月前決算代理店在庫推奨品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kdzsuikb05"
+            },
+            {
+                "name": "５ヶ月前在庫月数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Zgetu05"
+            },
+            {
+                "name": "５ヶ月前過剰区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kajo05"
+            },
+            {
+                "name": "６ヶ月前生産実績数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jnsuu06"
+            },
+            {
+                "name": "６ヶ月前営業販売数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Eusuu06"
+            },
+            {
+                "name": "６ヶ月前社販部販数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jusuu06"
+            },
+            {
+                "name": "６ヶ月前直販輸出数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Cusuu06"
+            },
+            {
+                "name": "６ヶ月前後方在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jzsuu06"
+            },
+            {
+                "name": "６ヶ月前前線在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mzsuu06"
+            },
+            {
+                "name": "６ヶ月前後方引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jhsuu06"
+            },
+            {
+                "name": "６ヶ月前前線引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mhsuu06"
+            },
+            {
+                "name": "６ヶ月前決算事業部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjig06"
+            },
+            {
+                "name": "６ヶ月前決算売区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kuku06"
+            },
+            {
+                "name": "６ヶ月前決算Ｇ区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kgku06"
+            },
+            {
+                "name": "６ヶ月前決算商品分類区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kbunkbn06"
+            },
+            {
+                "name": "６ヶ月前決算在庫区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kzku06"
+            },
+            {
+                "name": "６ヶ月前決算ＰＬＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kplmkb06"
+            },
+            {
+                "name": "６ヶ月前決算新商品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Knsku06"
+            },
+            {
+                "name": "６ヶ月前決算主管マーケティング本部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksmk06"
+            },
+            {
+                "name": "６ヶ月前決算ＩＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kimkb06"
+            },
+            {
+                "name": "６ヶ月前決算商品内容区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksnku06"
+            },
+            {
+                "name": "６ヶ月前決算受注生産品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjseiskb06"
+            },
+            {
+                "name": "６ヶ月前決算代理店在庫推奨品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kdzsuikb06"
+            },
+            {
+                "name": "６ヶ月前在庫月数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Zgetu06"
+            },
+            {
+                "name": "６ヶ月前過剰区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kajo06"
+            },
+            {
+                "name": "７ヶ月前生産実績数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jnsuu07"
+            },
+            {
+                "name": "７ヶ月前営業販売数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Eusuu07"
+            },
+            {
+                "name": "７ヶ月前社販部販数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jusuu07"
+            },
+            {
+                "name": "７ヶ月前直販輸出数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Cusuu07"
+            },
+            {
+                "name": "７ヶ月前後方在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jzsuu07"
+            },
+            {
+                "name": "７ヶ月前前線在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mzsuu07"
+            },
+            {
+                "name": "７ヶ月前後方引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jhsuu07"
+            },
+            {
+                "name": "７ヶ月前前線引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mhsuu07"
+            },
+            {
+                "name": "７ヶ月前決算事業部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjig07"
+            },
+            {
+                "name": "７ヶ月前決算売区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kuku07"
+            },
+            {
+                "name": "７ヶ月前決算Ｇ区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kgku07"
+            },
+            {
+                "name": "７ヶ月前決算商品分類区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kbunkbn07"
+            },
+            {
+                "name": "７ヶ月前決算在庫区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kzku07"
+            },
+            {
+                "name": "７ヶ月前決算ＰＬＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kplmkb07"
+            },
+            {
+                "name": "７ヶ月前決算新商品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Knsku07"
+            },
+            {
+                "name": "７ヶ月前決算主管マーケティング本部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksmk07"
+            },
+            {
+                "name": "７ヶ月前決算ＩＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kimkb07"
+            },
+            {
+                "name": "７ヶ月前決算商品内容区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksnku07"
+            },
+            {
+                "name": "７ヶ月前決算受注生産品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjseiskb07"
+            },
+            {
+                "name": "７ヶ月前決算代理店在庫推奨品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kdzsuikb07"
+            },
+            {
+                "name": "７ヶ月前在庫月数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Zgetu07"
+            },
+            {
+                "name": "７ヶ月前過剰区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kajo07"
+            },
+            {
+                "name": "８ヶ月前生産実績数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jnsuu08"
+            },
+            {
+                "name": "８ヶ月前営業販売数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Eusuu08"
+            },
+            {
+                "name": "８ヶ月前社販部販数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jusuu08"
+            },
+            {
+                "name": "８ヶ月前直販輸出数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Cusuu08"
+            },
+            {
+                "name": "８ヶ月前後方在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jzsuu08"
+            },
+            {
+                "name": "８ヶ月前前線在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mzsuu08"
+            },
+            {
+                "name": "８ヶ月前後方引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jhsuu08"
+            },
+            {
+                "name": "８ヶ月前前線引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mhsuu08"
+            },
+            {
+                "name": "８ヶ月前決算事業部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjig08"
+            },
+            {
+                "name": "８ヶ月前決算売区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kuku08"
+            },
+            {
+                "name": "８ヶ月前決算Ｇ区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kgku08"
+            },
+            {
+                "name": "８ヶ月前決算商品分類区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kbunkbn08"
+            },
+            {
+                "name": "８ヶ月前決算在庫区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kzku08"
+            },
+            {
+                "name": "８ヶ月前決算ＰＬＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kplmkb08"
+            },
+            {
+                "name": "８ヶ月前決算新商品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Knsku08"
+            },
+            {
+                "name": "８ヶ月前決算主管マーケティング本部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksmk08"
+            },
+            {
+                "name": "８ヶ月前決算ＩＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kimkb08"
+            },
+            {
+                "name": "８ヶ月前決算商品内容区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksnku08"
+            },
+            {
+                "name": "８ヶ月前決算受注生産品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjseiskb08"
+            },
+            {
+                "name": "８ヶ月前決算代理店在庫推奨品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kdzsuikb08"
+            },
+            {
+                "name": "８ヶ月前在庫月数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Zgetu08"
+            },
+            {
+                "name": "８ヶ月前過剰区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kajo08"
+            },
+            {
+                "name": "９ヶ月前生産実績数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jnsuu09"
+            },
+            {
+                "name": "９ヶ月前営業販売数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Eusuu09"
+            },
+            {
+                "name": "９ヶ月前社販部販数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jusuu09"
+            },
+            {
+                "name": "９ヶ月前直販輸出数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Cusuu09"
+            },
+            {
+                "name": "９ヶ月前後方在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jzsuu09"
+            },
+            {
+                "name": "９ヶ月前前線在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mzsuu09"
+            },
+            {
+                "name": "９ヶ月前後方引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jhsuu09"
+            },
+            {
+                "name": "９ヶ月前前線引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mhsuu09"
+            },
+            {
+                "name": "９ヶ月前決算事業部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjig09"
+            },
+            {
+                "name": "９ヶ月前決算売区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kuku09"
+            },
+            {
+                "name": "９ヶ月前決算Ｇ区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kgku09"
+            },
+            {
+                "name": "９ヶ月前決算商品分類区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kbunkbn09"
+            },
+            {
+                "name": "９ヶ月前決算在庫区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kzku09"
+            },
+            {
+                "name": "９ヶ月前決算ＰＬＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kplmkb09"
+            },
+            {
+                "name": "９ヶ月前決算新商品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Knsku09"
+            },
+            {
+                "name": "９ヶ月前決算主管マーケティング本部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksmk09"
+            },
+            {
+                "name": "９ヶ月前決算ＩＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kimkb09"
+            },
+            {
+                "name": "９ヶ月前決算商品内容区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksnku09"
+            },
+            {
+                "name": "９ヶ月前決算受注生産品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjseiskb09"
+            },
+            {
+                "name": "９ヶ月前決算代理店在庫推奨品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kdzsuikb09"
+            },
+            {
+                "name": "９ヶ月前在庫月数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Zgetu09"
+            },
+            {
+                "name": "９ヶ月前過剰区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kajo09"
+            },
+            {
+                "name": "１０ヶ月前生産実績数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jnsuu10"
+            },
+            {
+                "name": "１０ヶ月前営業販売数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Eusuu10"
+            },
+            {
+                "name": "１０ヶ月前社販部販数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jusuu10"
+            },
+            {
+                "name": "１０ヶ月前直販輸出数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Cusuu10"
+            },
+            {
+                "name": "１０ヶ月前後方在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jzsuu10"
+            },
+            {
+                "name": "１０ヶ月前前線在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mzsuu10"
+            },
+            {
+                "name": "１０ヶ月前後方引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jhsuu10"
+            },
+            {
+                "name": "１０ヶ月前前線引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mhsuu10"
+            },
+            {
+                "name": "１０ヶ月前決算事業部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjig10"
+            },
+            {
+                "name": "１０ヶ月前決算売区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kuku10"
+            },
+            {
+                "name": "１０ヶ月前決算Ｇ区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kgku10"
+            },
+            {
+                "name": "１０ヶ月前決算商品分類区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kbunkbn10"
+            },
+            {
+                "name": "１０ヶ月前決算在庫区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kzku10"
+            },
+            {
+                "name": "１０ヶ月前決算ＰＬＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kplmkb10"
+            },
+            {
+                "name": "１０ヶ月前決算新商品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Knsku10"
+            },
+            {
+                "name": "１０ヶ月前決算主管マーケティング本部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksmk10"
+            },
+            {
+                "name": "１０ヶ月前決算ＩＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kimkb10"
+            },
+            {
+                "name": "１０ヶ月前決算商品内容区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksnku10"
+            },
+            {
+                "name": "１０ヶ月前決算受注生産品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjseiskb10"
+            },
+            {
+                "name": "１０ヶ月前決算代理店在庫推奨品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kdzsuikb10"
+            },
+            {
+                "name": "１０ヶ月前在庫月数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Zgetu10"
+            },
+            {
+                "name": "１０ヶ月前過剰区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kajo10"
+            },
+            {
+                "name": "１１ヶ月前生産実績数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jnsuu11"
+            },
+            {
+                "name": "１１ヶ月前営業販売数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Eusuu11"
+            },
+            {
+                "name": "１１ヶ月前社販部販数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jusuu11"
+            },
+            {
+                "name": "１１ヶ月前直販輸出数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Cusuu11"
+            },
+            {
+                "name": "１１ヶ月前後方在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jzsuu11"
+            },
+            {
+                "name": "１１ヶ月前前線在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mzsuu11"
+            },
+            {
+                "name": "１１ヶ月前後方引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jhsuu11"
+            },
+            {
+                "name": "１１ヶ月前前線引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mhsuu11"
+            },
+            {
+                "name": "１１ヶ月前決算事業部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjig11"
+            },
+            {
+                "name": "１１ヶ月前決算売区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kuku11"
+            },
+            {
+                "name": "１１ヶ月前決算Ｇ区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kgku11"
+            },
+            {
+                "name": "１１ヶ月前決算商品分類区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kbunkbn11"
+            },
+            {
+                "name": "１１ヶ月前決算在庫区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kzku11"
+            },
+            {
+                "name": "１１ヶ月前決算ＰＬＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kplmkb11"
+            },
+            {
+                "name": "１１ヶ月前決算新商品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Knsku11"
+            },
+            {
+                "name": "１１ヶ月前決算主管マーケティング本部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksmk11"
+            },
+            {
+                "name": "１１ヶ月前決算ＩＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kimkb11"
+            },
+            {
+                "name": "１１ヶ月前決算商品内容区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksnku11"
+            },
+            {
+                "name": "１１ヶ月前決算受注生産品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjseiskb11"
+            },
+            {
+                "name": "１１ヶ月前決算代理店在庫推奨品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kdzsuikb11"
+            },
+            {
+                "name": "１１ヶ月前在庫月数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Zgetu11"
+            },
+            {
+                "name": "１１ヶ月前過剰区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kajo11"
+            },
+            {
+                "name": "１２ヶ月前生産実績数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jnsuu12"
+            },
+            {
+                "name": "１２ヶ月前営業販売数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Eusuu12"
+            },
+            {
+                "name": "１２ヶ月前社販部販数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jusuu12"
+            },
+            {
+                "name": "１２ヶ月前直販輸出数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Cusuu12"
+            },
+            {
+                "name": "１２ヶ月前後方在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jzsuu12"
+            },
+            {
+                "name": "１２ヶ月前前線在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mzsuu12"
+            },
+            {
+                "name": "１２ヶ月前後方引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jhsuu12"
+            },
+            {
+                "name": "１２ヶ月前前線引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mhsuu12"
+            },
+            {
+                "name": "１２ヶ月前決算事業部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjig12"
+            },
+            {
+                "name": "１２ヶ月前決算売区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kuku12"
+            },
+            {
+                "name": "１２ヶ月前決算Ｇ区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kgku12"
+            },
+            {
+                "name": "１２ヶ月前決算商品分類区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kbunkbn12"
+            },
+            {
+                "name": "１２ヶ月前決算在庫区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kzku12"
+            },
+            {
+                "name": "１２ヶ月前決算ＰＬＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kplmkb12"
+            },
+            {
+                "name": "１２ヶ月前決算新商品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Knsku12"
+            },
+            {
+                "name": "１２ヶ月前決算主管マーケティング本部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksmk12"
+            },
+            {
+                "name": "１２ヶ月前決算ＩＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kimkb12"
+            },
+            {
+                "name": "１２ヶ月前決算商品内容区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksnku12"
+            },
+            {
+                "name": "１２ヶ月前決算受注生産品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjseiskb12"
+            },
+            {
+                "name": "１２ヶ月前決算代理店在庫推奨品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kdzsuikb12"
+            },
+            {
+                "name": "１２ヶ月前在庫月数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Zgetu12"
+            },
+            {
+                "name": "１２ヶ月前過剰区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kajo12"
+            },
+            {
+                "name": "１３ヶ月前生産実績数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jnsuu13"
+            },
+            {
+                "name": "１３ヶ月前営業販売数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Eusuu13"
+            },
+            {
+                "name": "１３ヶ月前社販部販数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jusuu13"
+            },
+            {
+                "name": "１３ヶ月前直販輸出数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Cusuu13"
+            },
+            {
+                "name": "１３ヶ月前後方在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jzsuu13"
+            },
+            {
+                "name": "１３ヶ月前前線在庫数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mzsuu13"
+            },
+            {
+                "name": "１３ヶ月前後方引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Jhsuu13"
+            },
+            {
+                "name": "１３ヶ月前前線引当数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Mhsuu13"
+            },
+            {
+                "name": "１３ヶ月前決算事業部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjig13"
+            },
+            {
+                "name": "１３ヶ月前決算売区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kuku13"
+            },
+            {
+                "name": "１３ヶ月前決算Ｇ区",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kgku13"
+            },
+            {
+                "name": "１３ヶ月前決算商品分類区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kbunkbn13"
+            },
+            {
+                "name": "１３ヶ月前決算在庫区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kzku13"
+            },
+            {
+                "name": "１３ヶ月前決算ＰＬＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kplmkb13"
+            },
+            {
+                "name": "１３ヶ月前決算新商品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Knsku13"
+            },
+            {
+                "name": "１３ヶ月前決算主管マーケティング本部",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksmk13"
+            },
+            {
+                "name": "１３ヶ月前決算ＩＭ区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kimkb13"
+            },
+            {
+                "name": "１３ヶ月前決算商品内容区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ksnku13"
+            },
+            {
+                "name": "１３ヶ月前決算受注生産品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kjseiskb13"
+            },
+            {
+                "name": "１３ヶ月前決算代理店在庫推奨品区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kdzsuikb13"
+            },
+            {
+                "name": "１３ヶ月前在庫月数",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Zgetu13"
+            },
+            {
+                "name": "１３ヶ月前過剰区分",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Kajo13"
+            },
+            {
+                "name": "データ年月",
+                "sourceLogicalColumn": "logicalColumn:BusinessModel.D4905.Ym"
+            }
+        ]
+    }
+}
